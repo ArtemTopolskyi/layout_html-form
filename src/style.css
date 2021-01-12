@@ -1,0 +1,15 @@
+.form-elem {
+  margin: 10px 0;
+}
+
+.first-elem {
+  margin-top: 0;
+}
+
+.last-elem {
+  margin-bottom: 0;
+}
+
+fieldset {
+  margin-bottom: 20px;
+}
